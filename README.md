@@ -1,10 +1,11 @@
 # Projects
 ## All my projects
 
+### - [go-mongo: REST API with go-fiber and mongoDB | Go-fiber, MongoDB](https://github.com/akshay1027/go-mongodb)
 ### - [SkillMastery: Website for hyperlocal teachers | MERN, Redis, Nginx, Docker](https://github.com/akshay1027/SkillMastery)
-### - [Trellox: MERN | trello clone](https://github.com/akshay1027/TrelloX)
+### - [Trellox: trello clone | MERN](https://github.com/akshay1027/TrelloX)
 ### - [Task scheduler: Perform background task, asynchronously | Node.js, MongoDB, Google API](https://github.com/akshay1027/Task-Scheduler-NodeJS)
-### - [Quora: MERN | quora clone](https://github.com/akshay1027/Quora)
+### - [Quora: quora clone | MERN](https://github.com/akshay1027/Quora)
 ### - [x-meme: crio.do contest assignment | Node.js, React.js, Lowdb](https://github.com/akshay1027/x-meme)
 ### - [SkillMastery: Website for hyperlocal teachers | DRF, PgSQL](https://github.com/akshay1027/SkillMastery-API-DRF-PgSQL)
 ### - [Complete Authentication: Django, React.js](https://github.com/akshay1027/django-react-auth)
