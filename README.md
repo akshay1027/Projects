@@ -1,8 +1,9 @@
 # Projects
 ## All my projects
 
+### - [url-shortner | Go-fiber, Redis](https://github.com/akshay1027/url-shortner)
 ### - [go-mongo: REST API with go-fiber and mongoDB | Go-fiber, MongoDB](https://github.com/akshay1027/go-mongodb)
-### - [SkillMastery: Website for hyperlocal teachers | MERN, Redis, Nginx, Docker](https://github.com/akshay1027/SkillMastery)
+### - [SkillMastery: Website for hyperlocal teachers | MERN, Redis, Docker](https://github.com/akshay1027/SkillMastery)
 ### - [Trellox: trello clone | MERN](https://github.com/akshay1027/TrelloX)
 ### - [Task scheduler: Perform background task, asynchronously | Node.js, MongoDB, Google API](https://github.com/akshay1027/Task-Scheduler-NodeJS)
 ### - [Quora: quora clone | MERN](https://github.com/akshay1027/Quora)
