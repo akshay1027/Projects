@@ -1,7 +1,7 @@
 # Projects
 ## All my projects
 
-### - [job-application-review system API| DRF, SQLite | API](https://github.com/akshay1027/job-application-review)
+### - [job-application-review system API | DRF, SQLite, API](https://github.com/akshay1027/job-application-review)
 ### - [url-shortner | Go-fiber, Redis](https://github.com/akshay1027/url-shortner)
 ### - [go-mongo: REST API with go-fiber and mongoDB | Go-fiber, MongoDB](https://github.com/akshay1027/go-mongodb)
 ### - [SkillMastery: Website for hyperlocal teachers | MERN, Redis, Docker](https://github.com/akshay1027/SkillMastery)
